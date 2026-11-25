@@ -1,0 +1,2 @@
+# Dependensi akan diisi ketika mulai implementasi.
+# Rencana: pandas, scikit-learn, streamlit, joblib.
