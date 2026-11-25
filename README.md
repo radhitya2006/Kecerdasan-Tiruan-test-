@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YieldPredict — kerangka awal
 
 Setup ini hanya berisi struktur folder, file placeholder, dan dataset mentah.
@@ -33,3 +34,6 @@ lain dari arsip belum disertakan agar kerangka awal tetap sederhana.
 
 Belum ada perintah menjalankan aplikasi karena file Python masih placeholder.
 Langkah berikutnya adalah mengecek dataset sebelum mulai menulis preprocessing.
+=======
+# Kecerdasan-Tiruan-test-
+>>>>>>> bbe0c6d390f7ef5ed3fd62574d62ad4da79e9dd9
